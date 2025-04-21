@@ -26,10 +26,5 @@ A deep learning image classification project using TensorFlow and Keras to predi
   - Predicted output class
 
 ## 📊 Model Accuracy
-Achieved **~89-92% accuracy** on the test dataset after 10 epochs.
+Achieved **~88% accuracy** on the test dataset after 10 epochs.
 
-## 📎 How to Run
-1. Clone the repository.
-2. Install required libraries using:
-   ```bash
-   pip install -r requirements.txt
